@@ -15,9 +15,9 @@ const minRestore = document.getElementById('min-restore');
 let clickCount = Math.trunc(Math.random() * (10 - 2) + 2);
 
 // an array of possible replies when the user closes the dialog box
-const replyArr = ["you have to refresh now you absolute retard",
+const replyArr = ["you have to refresh now you absolute Dumbo",
     "what did you think was going to happen?",
-    "you are indeed a nigger, aren't you?",
+    "you are indeed Dumb, aren't you?",
     "you must be feeling stupid right now",
     "just refresh you silly goose"
 ]
